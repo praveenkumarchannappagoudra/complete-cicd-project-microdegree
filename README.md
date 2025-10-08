@@ -1,4 +1,5 @@
 # complete-cicd-project-microdegree
+<<<<<<< HEAD
 
 # CI-CD
 This is Simple ci-cd project
@@ -712,3 +713,7 @@ Also add to Extended E-mail Notification
 ```
 
 
+=======
+###  to update git webhook use this http://50.17.127.237:8080//github-webhook/
+## polling
+>>>>>>> upstream/infra
