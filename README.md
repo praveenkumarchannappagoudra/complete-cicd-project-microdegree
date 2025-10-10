@@ -195,7 +195,7 @@ cd sonarqube-9.4.0.54424/bin/linux-x86-64/
 ./sonar.sh start
 ```
 ### result looks like this
-```commandline
+```commandline:
 root@ip-172-31-18-39:~# adduser sonarqube
 info: Adding user `sonarqube' ...
 info: Selecting UID/GID from range 1000 to 59999 ...
